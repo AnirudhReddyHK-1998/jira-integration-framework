@@ -1,0 +1,74 @@
+2026-06-17 18:29:38,451 - INFO - Starting Jira Report Automation
+2026-06-17 18:29:38,477 - ERROR - Framework execution failed: ExcelWriter.__new__() missing 1 required positional argument: 'path'
+2026-06-17 18:30:06,005 - INFO - Starting Jira Report Automation
+2026-06-17 18:30:06,026 - ERROR - Framework execution failed: ExcelWriter.__new__() missing 1 required positional argument: 'path'
+2026-06-17 18:36:33,356 - INFO - Starting Jira Report Automation
+2026-06-17 18:36:33,373 - ERROR - Framework execution failed: ExcelWriter.__new__() missing 1 required positional argument: 'path'
+2026-06-17 18:37:06,454 - INFO - Starting Jira Report Automation
+2026-06-17 18:37:06,480 - ERROR - Framework execution failed: ExcelWriter.__new__() missing 1 required positional argument: 'path'
+2026-06-17 18:41:19,172 - INFO - Starting Jira Report Automation
+2026-06-17 18:41:19,673 - INFO - Jira Excel report generated
+2026-06-17 18:41:19,975 - INFO - Chart generated successfully
+2026-06-17 18:41:25,159 - INFO - Dashboard captured successfully
+2026-06-17 18:41:25,472 - INFO - Jira automation completed successfully
+2026-06-17 18:47:26,713 - INFO - Starting Jira Report Automation
+2026-06-17 18:47:26,995 - INFO - Jira Excel report generated
+2026-06-17 18:47:27,156 - INFO - Chart generated successfully
+2026-06-17 18:47:32,306 - INFO - Dashboard captured successfully
+2026-06-17 18:47:32,421 - INFO - Jira automation completed successfully
+2026-06-17 18:49:46,571 - INFO - Starting Jira Report Automation
+2026-06-17 18:49:46,912 - INFO - Jira Excel report generated
+2026-06-17 18:49:47,085 - INFO - Chart generated successfully
+2026-06-17 18:49:52,254 - INFO - Dashboard captured successfully
+2026-06-17 18:49:52,385 - INFO - Jira automation completed successfully
+2026-06-17 19:07:38,604 - INFO - generated new fontManager
+2026-06-17 19:07:38,912 - INFO - Starting Jira Report Automation
+2026-06-17 19:07:39,218 - INFO - Jira Excel report generated
+2026-06-17 19:07:39,403 - INFO - Chart generated successfully
+2026-06-17 19:07:44,571 - INFO - Dashboard captured successfully
+2026-06-17 19:07:44,685 - INFO - Jira automation completed successfully
+2026-06-17 19:09:26,906 - INFO - Starting Jira Report Automation
+2026-06-17 19:09:27,202 - INFO - Jira Excel report generated
+2026-06-17 19:09:27,390 - INFO - Chart generated successfully
+2026-06-17 19:09:32,550 - INFO - Dashboard captured successfully
+2026-06-17 19:09:32,667 - INFO - Jira automation completed successfully
+2026-06-17 19:11:34,979 - INFO - Starting Jira Report Automation
+2026-06-17 19:11:35,347 - INFO - Jira Excel report generated
+2026-06-17 19:11:35,599 - INFO - Chart generated successfully
+2026-06-17 19:11:40,775 - INFO - Dashboard captured successfully
+2026-06-17 19:11:40,926 - INFO - Jira automation completed successfully
+2026-06-17 19:14:42,677 - INFO - Starting Jira Report Automation
+2026-06-17 19:14:43,000 - INFO - Jira Excel report generated
+2026-06-17 19:14:43,214 - INFO - Chart generated successfully
+2026-06-17 19:14:48,388 - INFO - Dashboard captured successfully
+2026-06-17 19:14:48,497 - INFO - Jira automation completed successfully
+2026-06-17 19:15:06,664 - INFO - Starting Jira Report Automation
+2026-06-17 19:15:06,975 - INFO - Jira Excel report generated
+2026-06-17 19:15:07,168 - INFO - Chart generated successfully
+2026-06-17 19:15:12,319 - INFO - Dashboard captured successfully
+2026-06-17 19:15:12,437 - INFO - Jira automation completed successfully
+2026-06-17 19:15:38,972 - INFO - Starting Jira Report Automation
+2026-06-17 19:15:39,294 - INFO - Jira Excel report generated
+2026-06-17 19:15:39,498 - INFO - Chart generated successfully
+2026-06-17 19:15:44,636 - INFO - Dashboard captured successfully
+2026-06-17 19:15:44,745 - INFO - Jira automation completed successfully
+2026-06-17 19:16:17,832 - INFO - Starting Jira Report Automation
+2026-06-17 19:16:18,142 - INFO - Jira Excel report generated
+2026-06-17 19:16:18,362 - INFO - Chart generated successfully
+2026-06-17 19:16:23,513 - INFO - Dashboard captured successfully
+2026-06-17 19:16:23,614 - INFO - Jira automation completed successfully
+2026-06-18 11:30:18,378 - INFO - Starting Jira Report Automation
+2026-06-18 11:30:18,696 - INFO - Jira Excel report generated
+2026-06-18 11:30:18,933 - INFO - Chart generated successfully
+2026-06-18 11:30:24,064 - INFO - Dashboard captured successfully
+2026-06-18 11:30:24,154 - INFO - Jira automation completed successfully
+2026-06-18 11:31:09,349 - INFO - Starting Jira Report Automation
+2026-06-18 11:31:09,561 - INFO - Jira Excel report generated
+2026-06-18 11:31:09,702 - INFO - Chart generated successfully
+2026-06-18 11:31:14,825 - INFO - Dashboard captured successfully
+2026-06-18 11:31:14,841 - INFO - Jira automation completed successfully
+2026-06-18 11:34:00,524 - INFO - Starting Jira Report Automation
+2026-06-18 11:34:00,739 - INFO - Jira Excel report generated
+2026-06-18 11:34:00,885 - INFO - Chart generated successfully
+2026-06-18 11:34:06,010 - INFO - Dashboard captured successfully
+2026-06-18 11:34:06,087 - INFO - Jira automation completed successfully

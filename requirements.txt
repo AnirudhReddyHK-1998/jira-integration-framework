@@ -4,3 +4,4 @@ streamlit
 plotly
 jira
 matplotlib
+streamlit-autorefresh

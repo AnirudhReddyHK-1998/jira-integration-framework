@@ -33,7 +33,7 @@ Hello Team,
 Please find attached today's productivity report.
 
 Dashboard Link:
-http://localhost:8501/
+https://jira-integration-framework-5evqdmpazr3kumbh8uqjgq.streamlit.app/
 Regards,
 Automation Framework
 """

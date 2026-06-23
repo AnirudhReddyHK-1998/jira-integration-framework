@@ -19,12 +19,6 @@ MOCK_JIRA_TICKETS = [
         "status": "To Do",
         "assignee": "Sara",
         "priority": "Low"
-    },
-    {
-        "key": "PROJ-104",
-        "summary": "Dashboard Testing",
-        "status": "To Do",
-        "assignee": "test",
-        "priority": "Low"
     }
+
 ]

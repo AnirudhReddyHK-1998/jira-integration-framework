@@ -1,1 +1,1 @@
-RECEIVER_EMAIL = "Shampritha.CHAKRA-PANI@akkodis.com; anirudh-reddy.h-k@akkodis.com"
+RECEIVER_EMAIL = "Shampritha.CHAKRA-PANI@akkodis.com; Thimmaiah-Kallichanda.KUSHALAPPA@akkodis.com; anirudh-reddy.h-k@akkodis.com"
